@@ -1,4 +1,5 @@
 ### Hi there 👋👉👉👉👉👉👉
+[![Hiteker67's GitHub | Dependencies](https://stats.quine.sh/Hiteker67/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hiteker67)
 [![Hiteker67's GitHub | Stats](https://stats.quine.sh/Hiteker67/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hiteker67)
 
 
